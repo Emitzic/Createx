@@ -320,11 +320,11 @@ body {
 .about__number {
     display: flex;
     align-items: center;
-    margin-botton: 20px;
+    margin-bottom: 20px;
 }
 
 .about__number:last-child {
-    margin-botton: 0px;
+    margin-bottom: 20px;
 }
 
 .about__number span {
